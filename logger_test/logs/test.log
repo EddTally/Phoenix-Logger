@@ -1,0 +1,8 @@
+##### 2023-03-27T12:20:32.409Z file="lib/phoenix/endpoint/cowboy2_adapter.ex" function="start_link/3" line=97 module=Phoenix.Endpoint.Cowboy2Adapter 
+ [info] Running LoggerTestWeb.Endpoint with cowboy 2.9.0 at 127.0.0.1:4000 (http)
+##### 2023-03-27T12:20:32.416Z file="lib/phoenix/endpoint/supervisor.ex" function="log_access_url/3" line=399 module=Phoenix.Endpoint.Supervisor 
+ [info] Access LoggerTestWeb.Endpoint at http://localhost:4000
+##### 2023-03-27T12:20:35.996Z file="lib/logger_test/test_logger.ex" function="test/0" line=5 module=LoggerTest.TestLogger 
+ [info] This is a custom logger message
+##### 2023-03-27T12:20:35.996Z file="lib/logger_test/test_logger.ex" function="test/0" line=6 module=LoggerTest.TestLogger 
+ [warn] custom warning ?
